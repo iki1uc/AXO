@@ -1,0 +1,4 @@
+﻿Pool,Quelle,Zweck
+Q‑Pool,q81(v),"Qualität, Richtung, Länge"
+Vektor‑Pool,"ABC_Vektor, OrbitLink, TMP81","Achse, ID, Vektor"
+NC‑Pool,"NC, HDF_PATH, CACHE_UPDATE","Standort, Speicher, Routing"
